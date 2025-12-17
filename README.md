@@ -1,7 +1,7 @@
 # 🚀 CodeAlpha - Data Redundancy Remover
 
 A clean, secure, and smart Flask web app that removes redundant entries from data using **MongoDB**.  
-Built with ❤️ by [Ashab](https://github.com/782-lab).
+
 
 ---
 
